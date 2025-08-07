@@ -1,0 +1,28 @@
+{
+  "name": "ajr-front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xabi08YT/AJR-Front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xabi08YT/AJR-Front/issues"
+  },
+  "homepage": "https://github.com/Xabi08YT/AJR-Front#readme",
+  "description": "",
+  "dependencies": {
+    "@remix-run/node": "^2.17.0",
+    "@remix-run/react": "^2.17.0",
+    "@remix-run/serve": "^2.17.0",
+    "isbot": "^4.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
