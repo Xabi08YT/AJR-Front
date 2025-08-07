@@ -3,11 +3,9 @@ import Home from "./routes/Home.tsx";
 
 function App() {
     return (
-        <>
-            <Routes>
-                <Route index component={Home} />
-            </Routes>
-        </>
+        <Routes>
+            <Route path="/" element={<Home />}/>
+        </Routes>
     )
 }
 
