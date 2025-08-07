@@ -1,1 +1,24 @@
 @import "tailwindcss";
+
+.navdesktopbtn {
+    margin: 2px;
+    background: white;
+    border-bottom: white 3px solid;
+    border-radius: 2px;
+    color: black;
+    transition: 0.1s ease-in;
+}
+
+.navdesktopbtn:hover {
+    border-bottom: aquamarine 3px solid;
+    border-radius: 2px;
+    color: aquamarine;
+    transition: 0.5s;
+}
+
+.cnavdesktopbtn {
+    border-bottom: deeppink 3px solid;
+    border-radius: 2px;
+    color: deeppink;
+    transition: 0.5s;
+}
